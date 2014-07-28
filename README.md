@@ -1,4 +1,4 @@
 silverstripe-todo
 =================
 
-Trying out Silverstripe.
+Trying out SilverStripe.
